@@ -23,4 +23,27 @@ I went through the code and added comments that contextualize the purpose of eac
 
 A good comment is one that helps walk a viewer through your decision-making process. This means adequately describing, and sometimes justifying, each additional element to the code that would make a meaningful difference towards the output. 
 
+# January 27 - Session 4
+## Lecture 7 Activities
+### Slide 11 - Flatten the Curve Accessibility
+The use of all capitals for the axes and graph titles can be hard to read for some individuals. Additionally, the use of red font to emphasize the start of early interventions may not be distinguishable for individuals who experience colour blindness. The lack of a subtitle/caption that explains the graph make it even more difficult for those who need additional contextual information or for those who use a screen reader.
 
+### Slide 35 - Alt-Text Suggestion
+A woman wearing a white lab coat and blue nitirle gloves (presumably a scientist) is speaking to a man in a blue, collared t-shirt. Both are standing beside a fume hood in a laboratory. The woman is standing on the left while the man is in the middle and the fume hood is on the right.
+
+### Slide 39 - Four Types of Descriptive Content
+Level 1 - This appears to be a stacked horizontal bar chart that acts as a timeline across the 24 hours in a day. The title says "The Daily Routines of Famous Creative People". The rows represent different famous people, while the columns represents an hour on the 12-hour clock (from 12am on the left to 12pm in the center and back to 12am on the far fight). Sections of the bar are coloured based on categories of different activities that can occur in the routine like sleep, food, exercise, etc.
+
+Level 2 - The graph quantifies the relative proportion of each person's day that is made up of a specific activity. In terms of outliers, we can see that some people standout in terms of sleep (e.g., Mozart and Freud sleep the least while Flaubert and Styron go to bed the latest). Darwin exercises three times per day in short bursts while Dickens and Milton do one long workout. 
+
+Level 3 - I don't notice any particularly trends aside from noticing that the people are arranged in order by the hour at which they wake up. I also notice that exercise was rarer among the creative people who lived in earlier time periods.
+
+Level 4 - I don't have the particular domain insight for most of these creatives. I understand that they come from a variety of disciplines and time periods. The observation of exercise being rarer among earlier creatives makes me wonder if the concept of exercising voluntarily (for health or leisure reasons) is relatively new or limited to more priviledged groups.
+
+## Lecture 8 (Slide 12) Activity
+### How Rational, Moral, and Emotional Appeals are Used
+Rational appeals are used by providing audiences facts about the dimensions of the cargo holds and the number of slaves on each tier. Both of which lead audiences to conclude that the ships were cramped and overcrowded beyond what is appropriate for its size and for human safety. 
+
+Moral appeals are used by emphasizing key elements such as underlining the location of the slaves in the lower deck, likening the shelves to the galleries in churches, and juxtaposing the minimal space given to slaves against the large captain's cabin. The slaves are also drawn with details like clothes and faces to remind the audience that they are humans, rather than figures or bodies in a diagram.
+
+An emotional appeal is made through the visualizations of the slaves, such as them crouching, crawling, and sitting slumped over to further solidify the lack of space that they have. They are also drawn laying down overlapping each other, as opposed to making them smaller to avoid overlap or showing them standing up in a top-down view. This further illustrates how crowded and innappropriate these conditions are for a population to live, sleep, and eat in. 
